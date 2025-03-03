@@ -1,6 +1,6 @@
 # FineReason: Evaluating and Improving LLMs’ Deliberate Reasoning through Reflective Puzzle Solving
 
-![Puzzle_Categories](assets/puzzle-categories.pdf)
+![Puzzle_Categories](assets/puzzle-categories.png)
 
 We introduce FINEREASON, a novel logic-puzzle benchmark designed to comprehensively evaluate the reasoning capabilities of LLMs. Current benchmarks primarily focus on the accuracy of final answers, overlooking whether models can effectively reflect and correct errors during the reasoning process. 
 
