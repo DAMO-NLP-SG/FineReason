@@ -1,6 +1,6 @@
 # FineReason: Evaluating and Improving LLMs’ Deliberate Reasoning through Reflective Puzzle Solving
 
-This is the official repo for our paper "FineReason: Evaluating and Improving LLMs’ Deliberate Reasoning through Reflective Puzzle Solving" in ACL 2025.
+This is the official repo for our paper ["FineReason: Evaluating and Improving LLMs’ Deliberate Reasoning through Reflective Puzzle Solving"](https://aclanthology.org/2025.acl-long.333/) in ACL 2025.
 
 <p align="center">
     <img src="assets/puzzle-types.png" width="90%" height="50%">
@@ -67,7 +67,7 @@ python main.py evaluate \
 ```
 
 ## 📈 RL Training with Puzzle Data
-Coming soon...
+Our training data is released at [HuggingFace](https://huggingface.co/datasets/Guizhen/Puzzles_10k).
 
 ## 🔗 Citation
 
